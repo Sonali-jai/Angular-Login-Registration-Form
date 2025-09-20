@@ -72,10 +72,15 @@ This project is an Angular application with Firebase backend. It allows users to
 
 ## Screenshots
 ![Login Page](login.png)
-This is the login page where users enter their email and password to sign in.  
+This is the login page of the application. Users can securely enter their email and password to access the system.  
+The page includes validation checks to ensure correct email format and strong password entry.  
+It also provides feedback messages in case of invalid credentials.
 
 ![Registration Page](Registration.png)
-This is the registration page where new users can create an account.
+This is the registration page where new users can create an account.  
+Users need to fill in required details such as name, email, and password.  
+The form validates inputs in real-time and provides clear instructions for successful registration.  
+Upon successful registration, users are redirected to the login page to access their account.  
 
 ## Live Demo
 Check out the live app [here](https://application-form-98df6.web.app)
@@ -88,6 +93,7 @@ Check out the live app [here](https://application-form-98df6.web.app)
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
 
 
 
