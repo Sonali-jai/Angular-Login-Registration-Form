@@ -54,6 +54,36 @@ ng e2e
 
 Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
 
+
+## Description
+This project is an Angular application with Firebase backend. It allows users to **register** and **login** with email/password authentication. Hosted on Firebase.
+
+## Features
+- Firebase Authentication (Email & Password)
+- Angular Reactive Forms
+- Bootstrap UI for responsive design
+- Hosted on Firebase Hosting
+
+## Tech Stack
+- Angular 20
+- Firebase (Auth & Hosting)
+- Bootstrap 5
+- HTML, CSS, TypeScript
+
+## Screenshots
+![Login Page](./screenshots/login.png)
+![Registration Page](./screenshots/register.png)
+![Dashboard](./screenshots/dashboard.png)
+
+## Live Demo
+Check out the live app [here](https://application-form-98df6.web.app)
+
+## How to Run Locally
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/your-username/angular-firebase-login.git
+
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
