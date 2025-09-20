@@ -71,9 +71,8 @@ This project is an Angular application with Firebase backend. It allows users to
 - HTML, CSS, TypeScript
 
 ## Screenshots
-![Login Page](./screenshots/login.png)
+![Login Page](login.png)
 ![Registration Page](./screenshots/register.png)
-![Dashboard](./screenshots/dashboard.png)
 
 ## Live Demo
 Check out the live app [here](https://application-form-98df6.web.app)
@@ -86,4 +85,5 @@ Check out the live app [here](https://application-form-98df6.web.app)
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
 
